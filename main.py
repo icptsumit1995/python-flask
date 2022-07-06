@@ -5,5 +5,5 @@ app_color='Blue'
 
 @app.route('/')
 def hello:
-	return 'Hello World! Its our First Python Flask Applicaiton'
+	return 'Hello World! This is Sumit'
 
